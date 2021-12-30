@@ -2,30 +2,17 @@
 
 ### *Professional Engineer*
 
-정보관리 기술사 <br>
-정보시스템수석감리원 <br>
-PMP <br>
-펀드투자상담사 <br>
+정보관리 기술사 / 정보시스템수석감리원 / PMP / 펀드투자상담사 
 
 ### *Career*
 
 현) 스타트업 CTO<br>
-SBI저축은행 <br>
-LINE 파이넨셜 <br>
-테라펀딩 <br>
-등.
-
+전) SBI저축은행 / LINE 파이넨셜 / 테라펀딩 등.
 
 ### *Active*
 
-Programmers AWS 강의 <br>
-KPC / ITPE 기술사 멘토 <br>
-한이음 멘토 <br>
-Topcit 출제위원 <br>
-NCS "응용소프트웨어 개발" 집필  <br>
-블록체인 특강 - KPC <br>
-디자인 패턴 특강 - KPC <br>
-금융 IT 특강 - KTDS <br>
+Programmers AWS 강의 / KPC 기술사 멘토 / 한이음 멘토 / TOPCIT 출제위원 / NCS "응용소프트웨어 개발" 집필  <br>
+블록체인 특강 - KPC / 디자인 패턴 특강 - KPC / 금융 IT 특강 - KTDS <br>
 
 ### *Writing*
 
