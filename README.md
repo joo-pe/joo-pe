@@ -34,8 +34,8 @@ Programmers AWS 강의 / KPC 기술사 멘토 / 한이음 멘토 / TOPCIT 출제
 
 
 ### *TechMore*
-https://cafe.naver.com/techmoa
 
+https://cafe.naver.com/techmoa
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/channel/UCVc071q5Vp6D7s8W66bjxfg)  
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://joo-pe.github.io/)](https://joo-pe.github.io/)
