@@ -12,7 +12,7 @@
 
 ### *Professional Engineer*
 
-정보관리 기술사 / 정보시스템수석감리원 / PMP / 펀드투자상담사 
+정보관리 기술사 / 정보시스템수석감리원 / PMP 
 
 ### *Career*
 
