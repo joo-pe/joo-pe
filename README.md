@@ -21,8 +21,8 @@
 
 ### *Active*
 
-Programmers AWS 강의 [강사소개](https://programmers.co.kr/learn/courses/13478)<br>KPC 기술사 멘토 <br>한이음 멘토 <br>TOPCIT 출제위원 <br>   <br>
-블록체인 특강 - KPC / 디자인 패턴 특강 - KPC / 금융 IT 특강 - KTDS <br>
+Programmers AWS 강의 [강사소개](https://programmers.co.kr/learn/courses/13478)<br>KPC 기술사 멘토 <br>한이음 멘토 <br>TOPCIT 출제위원 <br>
+블록체인 특강 - KPC / 디자인 패턴 특강 - KPC <br>금융 IT 특강 - KTDS <br>
 
 ### *Writing*
 
