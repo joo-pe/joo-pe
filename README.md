@@ -17,7 +17,7 @@
 ### *Career*
 
 현) 스타트업 CTO <br>
-전) SBI저축은행 / LINE 파이넨셜 / 테라펀딩 등.
+전) SBI저축은행 / LINE / 테라펀딩 등.
 
 ### *Active*
 
