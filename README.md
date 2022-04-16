@@ -21,7 +21,7 @@
 
 ### *Active*
 
-Programmers AWS 강의 [강사소개](https://programmers.co.kr/learn/courses/13478)<br> 2022년 SW 마에스트로 멘토 <br>KPC 기술사 과정 멘토 <br> 한이음 멘토 (2018년 ~ 현재) <br>TOPCIT 출제위원 <br> 2021년 혁신성장 블록체인 개발자 과정 멘토 <br>
+Programmers AWS 강의 [강사소개](https://programmers.co.kr/learn/courses/13478)<br> 2022년 SW 마에스트로 멘토 <br>KPC 기술사 과정 멘토 (2017~2020) <br> 한이음 멘토 (2018년 ~ 현재) <br>TOPCIT 출제위원 평가위원 <br> 2021년 혁신성장 블록체인 개발자 6개월 과정 멘토 <br>
 블록체인 특강 - KPC / 디자인 패턴 특강 - KPC <br>금융 IT 특강 - KTDS <br>
 
 ### *Writing*
