@@ -39,6 +39,14 @@ NCS 2022년 "응용소프트웨어 개발" 학습모듈 집필 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joo-pe&layout=compact&exclude_repo=joo-pe.github.io)](https://github.com/joo-pe/github-readme-stats)
 
+### *SKILL*
+
+java / SpringBoot / MSA <br>
+Docker / Kubernetes <br>
+Devops / CI-CD <br>
+javascript / Vue.js <br>
+AWS / Kafka <br>
+blockchain / 이더리움 / 클레이튼 smartcontract <br>
 
 
 
