@@ -22,7 +22,7 @@
 ### *Active*
 
 Programmers AWS 강의 [강사소개](https://programmers.co.kr/learn/courses/13478)<br> 
-Programmers AWS B2C 강의 [강의소개](https://school.programmers.co.kr/learn/courses/16113/16113-spring-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%9E%85%EB%AC%B8-with-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4<br> 2022년 SW 마에스트로 멘토 <br>KPC 기술사 과정 멘토 (2017~2020) <br> 한이음 멘토 (2018년 ~ 현재) <br>TOPCIT 출제위원 평가위원 <br> 2021년 혁신성장 블록체인 개발자 6개월 과정 멘토 <br>
+Programmers AWS B2C 강의 [강의소개](https://school.programmers.co.kr/learn/courses/16113/16113-spring-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%9E%85%EB%AC%B8-with-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4)<br> 2022년 SW 마에스트로 멘토 <br>KPC 기술사 과정 멘토 (2017~2020) <br> 한이음 멘토 (2018년 ~ 현재) <br>TOPCIT 출제위원 평가위원 <br> 2021년 혁신성장 블록체인 개발자 6개월 과정 멘토 <br>
 블록체인 특강 - KPC / 디자인 패턴 특강 - KPC <br>금융 IT 특강 - KTDS <br>
 
 ### *Writing*
