@@ -49,5 +49,6 @@ javascript / React / Vue.js <br>
 AWS / Kafka <br>
 blockchain / 이더리움 / 클레이튼 smartcontract <br>
 
+                                                [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 
 
