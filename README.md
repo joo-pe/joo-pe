@@ -21,6 +21,7 @@
 
 ### *Active*
 
+- 제로베이스 : 백엔드 재취업 과정 멘토
 - Programmers AWS 강의 [강사소개](https://programmers.co.kr/learn/courses/13478)<br> 
 - Programmers AWS B2C 강의 [강의소개](https://school.programmers.co.kr/learn/courses/16113/16113-spring-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%9E%85%EB%AC%B8-with-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4)<br>
 - SW 마에스트로 멘토 <br>
