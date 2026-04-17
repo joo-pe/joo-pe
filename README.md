@@ -17,7 +17,7 @@
 ### *Career*
 
 - 현) 스타트업 CTO <br>
-- 전) SBI저축은행 / LINE / 테라펀딩 등.
+- 전) SBI저축은행 / LINE / 테라펀딩 / 한국평가정보 등.
 
 ### *Active*
 
@@ -48,6 +48,7 @@
 - java / SpringBoot / MSA <br>
 - Docker / Kubernetes <br>
 - Devops / AWS / Kafka <br>
+- Data Engineering / airflow / data pipeline
 - javascript / React / Vue.js <br>
 - CTO <br>
 - blockchain / 이더리움 / 클레이튼 smartcontract <br>
