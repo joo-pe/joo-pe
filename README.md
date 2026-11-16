@@ -1,8 +1,18 @@
-
 <div align=center>
-  
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=joo-pe&fontSize=60)
-      
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=joo-pe&fontSize=60)
+
+<a href="https://joo-pe.github.io"><img src="images/profile-photo.jpg" width="200" alt="Joo-PE"></a>
+
+# Joo-PE · Professional Engineer
+
+**캐롯아이 CIO** · 정보관리 기술사 · 정보시스템수석감리원 · PMP
+
+기술로 설계하고, 경험으로 가르칩니다.
+
+<a href="https://joo-pe.github.io"><img src="https://img.shields.io/badge/Homepage-joo--pe.github.io-2f5bea?style=for-the-badge" alt="Homepage"></a>
+<a href="https://joo-pe.github.io/blog/"><img src="https://img.shields.io/badge/Tech%20Blog-black?style=for-the-badge&logo=github" alt="Tech Blog"></a>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![JOO-PE's GitHub stats](https://github-readme-stats.vercel.app/api?username=joo-pe)](https://github.com/anuraghazra/github-readme-stats)
@@ -16,7 +26,7 @@
 
 ### *Career*
 
-- 현) 스타트업 CTO <br>
+- 현) 캐롯아이 CIO <br>
 - 전) SBI저축은행 / LINE / 테라펀딩 / 한국평가정보 등.
 
 ### *Active*
