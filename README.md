@@ -10,8 +10,6 @@
 
 기술로 설계하고, 실무 경험을 반영합니다.
 
-<a href="https://joo-pe.github.io"><img src="https://img.shields.io/badge/Homepage-joo--pe.github.io-2f5bea?style=for-the-badge" alt="Homepage"></a>
-<a href="https://joo-pe.github.io/blog/"><img src="https://img.shields.io/badge/Tech%20Blog-black?style=for-the-badge&logo=github" alt="Tech Blog"></a>
 
 
   
