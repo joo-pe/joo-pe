@@ -2,7 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=joo-pe&fontSize=60)
 
-<a href="https://joo-pe.github.io"><img src="images/profile-photo.jpg" width="200" alt="Joo-PE"></a>
 
 # Joo-PE · Professional Engineer
 
